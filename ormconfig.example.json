@@ -1,0 +1,13 @@
+{
+  "type": "postgres",
+  "port": 5432,
+  "host": "localhost",
+  "username": "postgres",
+  "password": "123",
+  "database": "boilerplate_core",
+  "migrations": ["./migrations/*.ts"],
+  "entities": ["./src/infra/orm/entities/*.ts"],
+  "cli": {
+    "migrationsDir": "./migrations"
+  }
+}
