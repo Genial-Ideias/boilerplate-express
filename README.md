@@ -2,11 +2,11 @@
 
 ### Instalação
 - Clonar projeto:
--- ```git clone https://github.com/Genial-Ideias/boilerplate-express.git```
+  - ```git clone https://github.com/Genial-Ideias/boilerplate-express.git```
 
-- Instalar dependências:
--- com yarn ```yarn```
--- com npm ```npm i```
+- Instalar dependências: 
+  - com yarn ```yarn```
+  - com npm ```npm i```
 
 - Criar arquivo de conexão com banco de dados baseado no ```ormconfig.example.json```
     ```json
@@ -26,5 +26,5 @@
     ```
 
 - rodar projeto:
--- com yarn ```yarn dev```
--- com npm ```npm run dev```
+  - com yarn ```yarn dev```
+  - com npm ```npm run dev```
